@@ -102,6 +102,10 @@ header #buttons {
   height: 60px;
 }
 
+#bmac-logo {
+  height: 67px;
+}
+
 .project {
   display: block;
   font-weight: bold;
