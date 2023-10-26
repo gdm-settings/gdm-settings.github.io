@@ -55,6 +55,10 @@ header h2 {
   background-color: #ffffff;
 }
 
+.donation-platform #github-logo {
+  background-color: white;
+}
+
 #projects {
   background-color: #00d24899;
 }
